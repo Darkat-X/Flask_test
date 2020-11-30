@@ -1,0 +1,10 @@
+gunicorn
+gevent
+tensorflow
+keras
+Flask
+Pillow
+numpy
+opencv-python
+pymongo
+dnspython
