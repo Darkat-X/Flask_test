@@ -8,9 +8,13 @@ Flask
 通过将Flask导入进python文件，实现面向用户之间的传输
 
 下面是网页的图像：
+
 ![image](https://github.com/Darkat-X/Flask_test/blob/main/Img/%E5%9B%BE%E7%89%87%201.png)
+
 返还的结果：
+
 ![image](https://github.com/Darkat-X/Flask_test/blob/main/Img/%E5%9B%BE%E7%89%87%202.png)
+
 终端运行指令：
 export FLASK_APP=filename
 export FLASK_ENV=development
@@ -18,7 +22,9 @@ flask run
 通过浏览器搜索 http://127.0.0.1:5000/ 即可进入页面
 MongoDB
 在服务器运行期间，用户所上传的照片将会以BinaryArray的形式保存在基于MongoDB的NoSQL数据库中。
+
 ![image](https://github.com/Darkat-X/Flask_test/blob/main/Img/%E5%9B%BE%E7%89%87%203.png)
+
 Docker
 首先创建DockerFile，然后基于DockerFile生成镜像。运行镜像以实现部署。
 终端运行指令
